@@ -13,6 +13,7 @@ Day 3 - 14/08/2023
 I have been very busy the last week odd. I haven't been able to complete any of the training i wanted to. Back on it now and really going to try and focus.
 I have done some of the remaining week 0 Scratch CS50. watching some of the remaining video i still have some left but been playing around with scratch and trying to get some more knowledge of programming basics.
 I have worked through the first section of freecodecamp - Responsive Web Design Certificate - Learn HTML by building a cat photo app. There were 69 challenges to go through where i learned the most common HTML tags and how to use them.
+I have done a good amount today. I have gone back through some sections that i have done before but has been fun revisiting the basics.
 ![image](https://github.com/curtiswelsby/Development-Tracker/assets/28829718/66d934f0-63a2-4809-8ab1-090b5d02702c)
 
-I have done a good amount today. I have gone back through some sections that i have done before but has been fun revisiting the basics.
+Day 4 -
