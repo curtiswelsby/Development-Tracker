@@ -8,3 +8,10 @@ I am also going to be trying to work through freecodecamp at the same time, star
 Day 2 - 04/08/2023
 Week 0 Scratch CS50 - algorithm's - started to understand what algorithms are and went through how to look up a name in a phone book. Used pseudo code to write out how you would complete this task to understand what are funcations, conditionals, boolean expressions and loops are detailing the best way to complete this task. Half the phone book see what is on the page is the name left or right side of book. half again and again until you find the name or no name exists.
 Now going to be looking at Scratch.
+
+Day 3 - 14/08/2023
+I have been very busy the last week odd. I haven't been able to complete any of the training i wanted to. Back on it now and really going to try and focus.
+I have done some of the remaining week 0 Scratch CS50. watching some of the remaining video i still have some left but been playing around with scratch and trying to get some more knowledge of programming basics.
+I have worked through the first section of freecodecamp - Responsive Web Design Certificate - Learn HTML by building a cat photo app. There were 69 challenges to go through where i learned the most common HTML tags and how to use them.
+![image](https://github.com/curtiswelsby/Development-Tracker/assets/28829718/66d934f0-63a2-4809-8ab1-090b5d02702c)
+I have done a good amount today. I have gone back through some sections that i have done before but has been fun revisiting the basics.
